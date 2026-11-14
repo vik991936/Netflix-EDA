@@ -2,16 +2,20 @@
 
 # 📊 Netflix Exploratory Data Analysis (EDA) – Key Insight
 
-1. Content Composition (Movies vs. TV Shows)
+## 1. Content Composition (Movies vs. TV Shows)
+
 Movie Dominance: Movies make up the majority of Netflix’s catalog at 70.4%, while TV Shows account for 29.6%.
 Portfolio Takeaway: While Netflix started heavily focused on films, TV shows have become a crucial strategic driver for user retention, despite lower raw counts.
 
-2. Content Release & Platform Growth Trends
+## 2. Content Release & Platform Growth Trends
+   
 Explosive Growth Era (2015–2019): Content production and platform additions scaled exponentially starting around 2015, peaking sharply around 2018–2019 before experiencing a slight downward adjustment in later years.
+
 Recent vs. Classic Content Gap: The vast majority of content are added to Netflix within 0 to 3 years of their original release year. However, a long-tail distribution shows that older classic catalog content is also regularly acquired.
+
 Monthly Additions Seasonality: Content additions are distributed fairly evenly throughout the year, with slight bumps during mid-year (July) and year-end (December).
 
-4. Geographic Distribution & Demographics
+## 3. Geographic Distribution & Demographics
 Top Producing Countries: The United States leads content production by a massive margin, followed by India and the United Kingdom. Other major contributors include Canada, France, Japan, and South Korea, highlighting a strong global footprint.
 Audience Ratings: The platform leans heavily toward mature audiences, with TV-MA and TV-14 being the most frequent rating categories by a wide margin. This indicates that Netflix's primary target audience consists of teens and adults.
 
